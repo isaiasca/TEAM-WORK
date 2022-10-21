@@ -1,3 +1,4 @@
 Hola grupo vamos a realizar un programa en visual studio
 El programa es de registrar alumnos
-Que ideas tienen: 
+Que ideas tienen:
+hay que hacer un diagrama
