@@ -5,5 +5,4 @@ hay que hacer un diagrama:
 Flujo
 Caso de uso
 mecanico
-
-
+un digrama de flujo estaria bueno
